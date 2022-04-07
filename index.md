@@ -6,6 +6,6 @@
 
 [Link to hello world] (https://github.com/Tyler-Culp/cse15l-lab-reports/blob/main/world.md)
 
-*1
-*2
-*3
+* 1
+* 2
+* 3
