@@ -30,4 +30,15 @@ type "yes" and hit enter and you'll see this.
 
 ![](Lab1SS_2.png)
 
+* Step 3: Running commands
+
+Now that you are connected to the remote computer you can try running some commands in the terminal. THese commands might include:
+
+1. cd : Change directory
+2. ls : List files in the current directory
+3. touch : To creat a new file
+4. pwd : Show the working directory
+5. mkdir : Make a new directory
+
+![Here is an example](Lab1SS_3.png)
 
