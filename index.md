@@ -2,6 +2,7 @@
 # Heading 2
 
 *Bold*
+
 **Italics**
 
 [Link to hello world](https://github.com/Tyler-Culp/cse15l-lab-reports/blob/main/world.md)
@@ -10,4 +11,7 @@
 * 2
 * 3
 
-![Image](https://images.app.goo.gl/Gt67LSL5aEro36o7A)
+I *genuinely* despise this image insert tool
+
+![image](https://images.app.goo.gl/zNmEEwLBgtMr8fKQ9)
+
