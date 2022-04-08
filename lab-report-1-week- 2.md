@@ -28,6 +28,6 @@ Are you sure you want to continue connecting
 
 type "yes" and hit enter and you'll see this.
 
-![]()
+![](Lab1SS_2.png)
 
 
