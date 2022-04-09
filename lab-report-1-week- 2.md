@@ -42,3 +42,13 @@ Now that you are connected to the remote computer you can try running some comma
 
 ![Here is an example](Lab1SS_3.png)
 
+* Step 4: Moving files with scp
+
+Now that we have connected to the remote system we can move files from our personal computer over to it using the `scp` command. By typing
+
+`scp [File Name] cs15lsp22zz@ieng6.ucsd.edu:~/`
+
+you can copy the file into a directory on the remote system. This file can be accessed from the remote system once you sign into it. An example of this can be seen with the WhereAmI java file in the screenshot below.
+
+![](Lab1SS_4.png)
+
