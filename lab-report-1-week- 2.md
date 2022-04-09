@@ -2,18 +2,18 @@
 
 * Step 1: Installing VS Code
 
-Go to VS Code's website, [Linked Here](https://code.visualstudio.com/), and follow the instructions for how to download and install the application on your computer.
-Once you've installed it you can open VS Code and it will look like this.
+I went to VS Code's website, [Linked Here](https://code.visualstudio.com/), and followed the instructions for how to download and install the application on my computer.
+Once I installed it I was able to open VS Code, which looks like this.
 
 ![VS Code home page](Lab1SS_1.png)
 
 * Step 2: Remotely Connecting
 
-Once VS Code is installed you will want to connect to a remote computer from your personal computer. Now you'll want to open VS Code.
+Once VS Code was installed I wanted to connect to a remote computer from my personal computer.
 
  Note: if you're using Windows the first thing you want to do is install OpenSSH at this [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). Once that is done you can open VS Code and continue with the following steps.
 
-From VS Code you'll want to open a new terminal using the menu option. From the terminal you use the command `ssh cs15lsp22zz@ieng6.ucsd.edu` where 'zz' is replaced by your three letters in your course specific account (you can find your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php)). This is the command for connecting the remote computer. The first time you try to connect you will see a message that looks like this 
+From VS Code I opened a new terminal using the menu option. From the terminal I used the command `ssh cs15lsp22zz@ieng6.ucsd.edu` where 'zz' is replaced by my three specific letters from my course account (I found the letters for my account [here](https://sdacs.ucsd.edu/~icc/index.php)). This is the command for connecting the remote computer. The first time I connected I saw a message that looks like this:
 
 "⤇ ssh cs15lsp22zz@ieng6.ucsd.edu
 
@@ -32,7 +32,7 @@ type "yes" and hit enter and you'll see this.
 
 * Step 3: Running commands
 
-Now that you are connected to the remote computer you can try running some commands in the terminal. THese commands might include:
+Now that I was connected to the remote computer I tried running some commands in the terminal. These commands might include:
 
 1. cd : Change directory
 2. ls : List files in the current directory
@@ -44,11 +44,15 @@ Now that you are connected to the remote computer you can try running some comma
 
 * Step 4: Moving files with scp
 
-Now that we have connected to the remote system we can move files from our personal computer over to it using the `scp` command. By typing
+Now that I had connected to the remote system I was able to move files from my personal computer over to the remote one using the `scp` command. By typing
 
 `scp [File Name] cs15lsp22zz@ieng6.ucsd.edu:~/`
 
 you can copy the file into a directory on the remote system. This file can be accessed from the remote system once you sign into it. An example of this can be seen with the WhereAmI java file in the screenshot below.
 
 ![](Lab1SS_4.png)
+
+* Step 5: Setting an SSH Key
+
+Connecting to ssh and using scp can start to become a pain with having to enter your password everytime. To get around this I created a SSH Key that would allow me to bypass the required password everytime.
 
