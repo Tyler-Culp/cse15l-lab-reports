@@ -54,5 +54,13 @@ you can copy the file into a directory on the remote system. This file can be ac
 
 * Step 5: Setting an SSH Key
 
-Connecting to ssh and using scp can start to become a pain with having to enter your password everytime. To get around this I created a SSH Key that would allow me to bypass the required password everytime.
+Connecting to ssh and using scp can start to become a pain with having to enter your password everytime. To get around this I created a SSH Key that would allow me to bypass the required password everytime. I did this by using `ssh-keygen` to create a public and private key. This is what making these keys looks like in the terminal
+
+![](Lab1SS_5.png)
+
+* Step 6: Optimizing Remote Running
+
+Now that I had my ssh keys set up I was able to connect to the remote system or copy over files in just a couple of keystrokes. This made logging in take only a couple of seconds, especially if I already had the ssh command in my terminal from earlier so that I could just use the up arrow on my computer to bring it back up. The screenshot below shows me copying files over and logging into the remote system much more effeciently now that I had my keys set up.
+
+![](Lab1SS_6.png)
 
