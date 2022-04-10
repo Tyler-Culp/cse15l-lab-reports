@@ -1,17 +1,6 @@
-# Heading 1
-# Heading 2
+# Lab Report 1
+My first lab report for Weeks 1 & 2 can be found [here](https://tyler-culp.github.io/cse15l-lab-reports/lab-report-1-week-%202.html)
 
-*Bold*
 
-**Italics**
 
-[Link to hello world](https://github.com/Tyler-Culp/cse15l-lab-reports/blob/main/world.md)
-
-* 1
-* 2
-* 3
-
-I *genuinely* despise this image insert tool
-
-![image](https://images.app.goo.gl/zNmEEwLBgtMr8fKQ9)
 
