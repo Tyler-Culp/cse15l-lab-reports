@@ -60,7 +60,7 @@ Connecting to ssh and using scp can start to become a pain with having to enter 
 
 * Step 6: Optimizing Remote Running
 
-Now that I had my ssh keys set up I was able to connect to the remote system or copy over files in just a couple of keystrokes. This made logging in take only a couple of seconds, especially if I already had the ssh command in my terminal from earlier so that I could just use the up arrow on my computer to bring it back up. The screenshot below shows me copying files over and logging into the remote system much more effeciently now that I had my keys set up.
+Now that I had my ssh keys set up I was able to connect to the remote system or copy over files in just a couple of keystrokes. This made logging in take only a couple of seconds, especially if I already had the ssh command in my terminal from earlier so that I could just use the up arrow on my computer to bring it back up. I was also able to sign in to the remote server, compile a file, and run the file, all in one line on the terminal using semicolons and double quotation marks. The screenshot below shows me copying files over, logging into the remote system, compiling, and running the WhereAmI file all in one line.
 
-![](Lab1SS_6.png)
+![](Lab1SS_7.png)
 
