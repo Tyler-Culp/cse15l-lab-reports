@@ -15,18 +15,18 @@ Once VS Code was installed I wanted to connect to a remote computer from my pers
 
 From VS Code I opened a new terminal using the menu option. From the terminal I used the command `ssh cs15lsp22zz@ieng6.ucsd.edu` where 'zz' is replaced by my three specific letters from my course account (I found the letters for my account [here](https://sdacs.ucsd.edu/~icc/index.php)). This is the command for connecting the remote computer. The first time I connected I saw a message that looks like this:
 
-"⤇ ssh cs15lsp22zz@ieng6.ucsd.edu
+`⤇ ssh cs15lsp22zz@ieng6.ucsd.edu`
 
-The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't
-be established.
+`The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't`
+`be established.`
 
-RSA key fingerprint is
-SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+`RSA key fingerprint is`
+`SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.`
 
-Are you sure you want to continue connecting
-(yes/no/[fingerprint])?"
+`Are you sure you want to continue connecting`
+`(yes/no/[fingerprint])?"`
 
-type "yes" and hit enter and you'll see this.
+type `yes` and hit enter and you'll see this.
 
 ![](Lab1SS_2.png)
 
