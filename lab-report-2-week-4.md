@@ -4,5 +4,5 @@
 
 2. The second change in the code was done in order to fix the case where there were no links in the file to begin with (i.e. no parenthesis).
 
-
+![SS2](Lab2SS_2.png)
 
