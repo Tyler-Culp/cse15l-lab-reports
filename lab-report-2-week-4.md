@@ -2,7 +2,7 @@
 
 ![SS1](Lab2SS_1.png)
 
-The first change in the code was implimented to try and fix the problems that the extra empty line at the end of [test-file.md](test-file.md) was causing. It caused an infinite loop so the command line just kept repeating the same two index numbers from the print statements we had added to it (there was no other command line error than these repeating numbers). The bug here was the fact that the code had no way of handling an extra empty line. The failure inducing input is adding one or more of these blank lines and the symptom that this failure inducing input causes is an infinite loop.
+The first change in the code was implimented to try and fix the problems that the extra empty line at the end of [test-file.md](test-file.md) was causing. It caused an infinite loop so the command line just kept repeating the same two index numbers from the print statements we had added to it (there was no command line error other than these repeating numbers). The bug here was the fact that the code had no way of handling an extra empty line. The failure inducing input is adding one or more of these blank lines and the symptom that this failure inducing input causes is an infinite loop.
 
 2.
 
