@@ -29,3 +29,4 @@ This last change was made to make sure the parser wasn't trying to add image lin
 
 The bug here was that the parser originally had now way to tell the difference between a website link and an image link, meaning that a failure inducing input was any file that contained pictures. This failure inducing input caused the symptom of too many links being added to the list. 
 
+
