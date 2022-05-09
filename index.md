@@ -6,6 +6,10 @@ My first lab report for Weeks 1 & 2 can be found [here](https://tyler-culp.githu
 [This](lab-report-2-week-4.md) is my second lab report.
 
 
+# Lab Report 3
+[This](lab-report-3-week-6.md) is my third lab report.
+
+
 
 
 
