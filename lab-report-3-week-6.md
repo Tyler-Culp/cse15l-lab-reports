@@ -22,4 +22,11 @@ and here is the [link](https://github.com/Tyler-Culp/cse15l-lab-reports/commit/f
 
 # Copy whole directories with scp -r
 
+We can copy over whole directories to our ieng6 accounts with scp by using `scp -r . cs15lsp22apz@ieng6.ucsd.edu:~/[directory_name]` as shown below using the markdownParser directory:
+![pic6](Lab3SS_6*.png)
+
+The next screenshot shows me accessing my ssh account and going into the markdownParser directory that is now there, and then running my JUnit tests from the ieng6 account:
+
+![pic7](Lab3SS_7*.png)
+
 
