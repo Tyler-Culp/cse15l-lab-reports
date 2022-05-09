@@ -7,3 +7,5 @@ The screenshot below shows me logging into the server using just `ssh ieng6`.
 In this next screenshot you can also see how much easier it is to scp files now that tis config file is set up. Now I only need to do `scp [filename] ieng6` to copy files over to the server. The screenshot below shows me doing this.
 
 ![pic3](Lab3SS_3*.png)
+
+Now we will look at ssh keys added to github.
