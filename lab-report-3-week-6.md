@@ -29,4 +29,7 @@ The next screenshot shows me accessing my ssh account and going into the markdow
 
 ![pic7](Lab3SS_7*.png)
 
+Finally this last screen shot shows me combining scp with ssh to be able to copy the directory and run a test with markdownparser all on a single line.
+
+![pic8](Lab3SS_8*.png)
 
