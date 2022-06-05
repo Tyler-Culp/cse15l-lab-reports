@@ -9,9 +9,9 @@ For test 194 the correct implementation is my parser which returns no links mean
 
 ![SS1](LabReport5SS1.png)
 
-I think that bug in my code causing the problem when we try test 201 is the fact that there is no real part addressing mulitline links that are created using colons. My markdown parser only just checks if there is a bracket pair and parenthesis pair set up such that the closed bracket is right next to the open paranethesis meaning that it will never catch multi lined links. 
-
 Based on the common mark demo site the output it should produce for test 194 is [] and the output is should produce for test 201 is [baz].
+
+I think that bug in my code causing the problem when we try test 201 is the fact that there is no real part addressing mulitline links that are created using colons. My markdown parser only just checks if there is a bracket pair and parenthesis pair set up such that the closed bracket is right next to the open paranethesis meaning that it will never catch multi lined links. 
 
 ![SS2](Lab5SS2.png)
 
