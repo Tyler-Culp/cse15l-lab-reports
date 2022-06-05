@@ -12,6 +12,9 @@ My first lab report for Weeks 1 & 2 can be found [here](https://tyler-culp.githu
 # Lab Report 4
 [Here](lab-report-4-week-8.md) is lab report 4.
 
+# Lab Report 5
+[lab 5 report](lab-report-5-week-10.md) here.
+
 
 
 
